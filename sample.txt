@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 this is file on main branch for check conflict
-=======
 this is for questio no. 15
->>>>>>> edit_sample_file
